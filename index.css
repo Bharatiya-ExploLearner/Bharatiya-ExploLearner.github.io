@@ -1,5 +1,7 @@
 Body{
 Color:cyan ;
 Display: flex;
-Background-image: url("1.jpg);
+Background-image: url("1.jpg");
+Justify:center;
+Align-items:center;
 }
