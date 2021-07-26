@@ -1,7 +1,33 @@
 *{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --gr: rgb(94, 255, 94);
+  }
+
+/* body{
+
+
+} */
+
+.front-page{
+    height: 100vh;
+    background-image: url("1.png");
+    background-size: cover;
 
 }
 
-body{
-    background-color: aqua;
+.sec-page{
+    height: 100vh;
+    background-image: url("2.png");
+    background-size: cover;
+
 }
+
+/* ::selection {
+    color: black;
+    background: var(--gr);
+
+  } */
